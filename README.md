@@ -6,7 +6,7 @@
 
 ![Language](https://img.shields.io/badge/language-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Units](https://img.shields.io/badge/units-2%20lab-black?style=flat-square)
-![Section](https://img.shields.io/badge/section-CPE21S3-black?style=flat-square)
+![Section](https://img.shields.io/badge/section-CPE--21S3-black?style=flat-square)
 
 **Gabriel Immanuel R. Serrano**
 
@@ -14,38 +14,34 @@
 
 ---
 
-## About
+## Course Description
 
-A laboratory course on the data structures and algorithms behind efficient programs. It covers algorithm analysis, abstract data types, linked lists, stacks, queues, searching, sorting, trees, and graphs, all implemented in **C++** to solve engineering problems.
+This repository holds my laboratory work for CPE 010. The course covers the core data abstractions, data structures, and algorithms used to write efficient programs. I design algorithms for each data structure and use them to solve engineering-related problems in **C++**.
 
-## Outcomes
+| | |
+|---|---|
+| **Course Code** | CPE 010 |
+| **Course Name** | Data Structures and Algorithms |
+| **Credits** | 2 units (laboratory) |
+| **Contact Hours** | 6 hours laboratory |
+| **Prerequisites** | CPE 009A (Object-Oriented Programming 1), MATH 006 (Discrete Math) |
+| **Term** | 1st Semester, SY 2026-2027 |
+| **Student** | Gabriel Immanuel R. Serrano |
+| **Section** | CPE-21S3 |
 
-1. Apply fundamental data structures to engineering problems through algorithm design.
-2. Design efficient algorithms and analyze their complexity.
-3. Build efficient algorithms using good programming style in C++.
+---
 
 ## Topics
 
-| Period | Coverage |
-|:--|:--|
-| **Prelim** | Algorithm analysis · Arrays and linked lists · Stacks |
-| **Midterm** | Queues · Searching (linear, binary, hashing) · Basic sorting |
-| **Final** | Trees (BST, AVL) · Graphs (BFS, DFS) · Time complexity classes |
-
-## Details
-
-| | |
-|:--|:--|
-| **Contact Hours** | 6 hours laboratory / week |
-| **Prerequisites** | CPE009A, MATH006 |
-| **Classification** | Required |
+| Prelim | Midterm | Final |
+|---|---|---|
+| Algorithm analysis and ADTs | Queues (array and linked list) | Trees (BST, AVL, traversals) |
+| Arrays and linked lists | Linear search and binary search | Graphs (adjacency matrix and list) |
+| Stacks (array and linked list) | Hashing | **BFS** and **DFS** |
+| Space and time complexity | Basic sorting algorithms | Time complexity classes |
 
 ---
 
 <div align="center">
 <sub>Built toward SDG 9: Industry, Innovation, and Infrastructure</sub>
 </div>
-````
-````
-
-The design is centered header, C++ and section badges, clean tables, and a small footer. It's the same content as before, and the badges load from shields.io, so they show up once it's on GitHub.
