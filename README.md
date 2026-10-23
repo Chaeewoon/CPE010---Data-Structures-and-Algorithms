@@ -14,6 +14,8 @@
 
 ---
 
+
+
 ## Course Description
 
 This repository holds my laboratory work for CPE 010. The course covers the core data abstractions, data structures, and algorithms used to write efficient programs. I design algorithms for each data structure and use them to solve engineering-related problems in **C++**.
@@ -28,6 +30,14 @@ This repository holds my laboratory work for CPE 010. The course covers the core
 | **Term** | 1st Semester, SY 2026-2027 |
 | **Student** | Gabriel Immanuel R. Serrano |
 | **Section** | CPE-21S3 |
+
+---
+
+## Outcomes
+
+1. Apply fundamental data structures to engineering problems through algorithm design.
+2. Design efficient algorithms and analyze their complexity.
+3. Build efficient algorithms using good programming style in C++.
 
 ---
 
